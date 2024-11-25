@@ -86,4 +86,4 @@ Feel free to fork the repository, submit issues, or make pull requests to improv
 ### Author
 
 Developed by [Adrian Statescu](https://github.com/thinkphp).
-```
+
