@@ -1,6 +1,3 @@
-Here’s a suggestive `README.md` for your repository:
-
-```markdown
 # PyQt Todo List Application
 
 A simple yet elegant to-do list application built with Python 3 and PyQt5. This app allows you to manage your tasks efficiently with a user-friendly graphical interface.
